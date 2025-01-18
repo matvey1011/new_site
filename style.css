@@ -1,0 +1,8 @@
+.up {
+	color: red;
+	font-family: Geneva;
+}
+
+.up:hover {
+	color:blue;
+}
